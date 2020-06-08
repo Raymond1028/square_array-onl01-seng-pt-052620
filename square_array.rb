@@ -10,5 +10,4 @@ end
 puts square_array(numbers).inspect
 
     
-  # your code here
-end
+
